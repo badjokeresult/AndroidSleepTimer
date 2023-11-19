@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="seekBarUnselectedColor">#BDC3C7</item>
+        <item name="seekBarColor">#3498DB</item>
+        <item name="seekBarWidth">10dp</item>
+        <item name="seekBarMax">100</item>
+        <item name="seekBarProgress">0.0</item>
+    </style>
+
+</resources>
